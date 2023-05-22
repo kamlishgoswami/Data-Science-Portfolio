@@ -2,6 +2,8 @@
 
 # Project 1: Washignton House Prices Prediction
 
+![alt text](https://github.com/kamlishgoswami//blob/Data-Science-Portfolio/image.jpg?raw=true)
+
 •	Downloaded real estate property dataset from Kaggle for Washington, USA.
 
 •	Performed data preprocessing, including handling missing values, encoding categorical variables, and scaling numerical features.
