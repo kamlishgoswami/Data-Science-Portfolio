@@ -20,8 +20,31 @@
 
 •	Deployed the model, API, and website to AWS for accessibility and scalability.
 
-Technologies Used: Python, Numpy, Pandas Matplotlib, Seaborn, scikit-learn, FastAPI, AWS, HTML,CSS,Bootstrap and JavaScript. 
+Technologies Used: Python, Numpy, Pandas Matplotlib, Seaborn, scikit-learn, Joblib, JSON, FastAPI, AWS, HTML,CSS,Bootstrap and JavaScript. 
 
 [AWS Link](http://ec2-54-242-12-7.compute-1.amazonaws.com/)
 
 ![Website](Washigton%20House%20Prices%20Prediction.png)
+
+
+
+
+# [Project 2: Image Classification: Project Overview](https://github.com/kamlishgoswami/Image-Classification-)
+
+• Collected and prepared a diverse dataset by scraping images from Google using Selenium
+
+• Utilized OpenCV for efficient data preprocessing, including face and eyes detection, to extract and crop facial regions from the images.
+
+• Applied Wavelet transform for feature engineering and capturing important image details
+
+• Split the data using Train Test Split for model evaluation
+
+• Conducted extensive model optimization using GridSearchCV, exploring multiple classifiers including SVM, Random Forest, and Logistic Regression.
+
+• Achieved exceptional accuracy of 95.4% on the dataset by identifying Support Vector Machine (SVM) as the best-performing classifier.
+
+• Communicated findings effectively through comprehensive reports, including classification metrics such as precision, recall, and F1-score.
+
+Technologies Used: Python, Numpy, Pandas Matplotlib, Seaborn, scikit-learn, OpenCV, PyWavelets, Joblib, JSON, Selenium
+
+![Classification Report](Screenshot%202023-05-22%20at%207.38.35%20PM.png) ![Confusion Matrix](download.png) 
