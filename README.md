@@ -24,4 +24,4 @@
 
 Technologies Used: Python, Numpy, Pandas Matplotlib, Seaborn, Sklearn, FastAPI, AWS, HTML,CSS,Bootstrap and JavaScript. 
 
-![alt text](Washington House Prices Prediction.jpg)
+![alt text](https://github.com/kamlishgoswami/Data-Science-Portfolio/blob/main/Washigton%20House%20Prices%20Prediction.png)
