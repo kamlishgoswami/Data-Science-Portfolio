@@ -12,9 +12,8 @@
 
 •	Split the data into training and testing sets using a 75% training and 25% testing split.
 
-•	Optimized Linear Regressor, Lasso Regressor, Decision Tree Regressor and Support Vector Regressor using GridSearchCV to reach the best model
-
-•	Selected the best model based on evaluation metrics and GridSearchCV results.
+•	Optimized Linear Regressor, Lasso Regressor, Decision Tree Regressor and Support Vector Regressor using GridSearchCV to reach the best   
+  model
 
 •	Developed a client-facing API using FastAPI to provide real estate price predictions based on the deployed model.
 
