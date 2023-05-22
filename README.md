@@ -12,8 +12,7 @@
 
 •	Split the data into training and testing sets using a 75% training and 25% testing split.
 
-•	Optimized Linear Regressor, Lasso Regressor, Decision Tree Regressor and Support Vector Regressor using GridSearchCV to reach the best   
-  model
+•	Optimized Linear Regressor, Lasso Regressor, Decision Tree Regressor and Support Vector Regressor using GridSearchCV to reach the best model
 
 •	Developed a client-facing API using FastAPI to provide real estate price predictions based on the deployed model.
 
@@ -23,4 +22,4 @@
 
 Technologies Used: Python, Numpy, Pandas Matplotlib, Seaborn, Sklearn, FastAPI, AWS, HTML,CSS,Bootstrap and JavaScript. 
 
-![alt text](https://github.com/kamlishgoswami/Data-Science-Portfolio/blob/main/Washigton%20House%20Prices%20Prediction.png)
+(https://github.com/kamlishgoswami/Data-Science-Portfolio/blob/main/Washigton%20House%20Prices%20Prediction.png)
