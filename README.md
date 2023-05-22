@@ -2,23 +2,25 @@
 
 # [Project 1: Washignton House Prices Prediction: Project Overview](https://github.com/kamlishgoswami/Washington-House-Prices-Prediction/tree/main)
 
-•	Downloaded real estate property dataset from Kaggle for Washington, USA.
+• The purpose of my project was to analyze a real estate property dataset from Washington, USA and provide valuable insights for the real estate market.
 
-•	Performed data preprocessing, including handling missing values, outliers, and encoding categorical variables 
+• Downloaded real estate property dataset from Kaggle for Washington, USA.
 
-•	Conducted feature engineering to create new meaningful features.
+• Conducted comprehensive data preprocessing, including handling missing values, outliers, and encoding categorical variables.
 
-•	Performed exploratory data analysis (EDA) to gain insights and understand the data distribution and relationships.
+• Performed feature engineering to create new meaningful features.
 
-•	Split the data into training and testing sets using a 75% training and 25% testing split.
+• Conducted exploratory data analysis (EDA) to gain insights into data distribution and relationships.
 
-•	Optimized Linear Regressor, Lasso Regressor, Decision Tree Regressor and Support Vector Regressor using GridSearchCV to reach the best model
+• Utilized GridSearchCV for thorough model optimization.
 
-•	Developed a client-facing API using FastAPI to provide real estate price predictions based on the deployed model.
+• Achieved 67% accuracy using Lasso as the best-performing model.
 
-•	Created a website using HTML, CSS, Bootstrap, and JavaScript to enhance user experience and interact with the API.
+• Developed a client-facing API using FastAPI for real estate price predictions.
 
-•	Deployed the model, API, and website to AWS for accessibility and scalability.
+• Created a responsive website using HTML, CSS, Bootstrap, and JavaScript to enhance user experience and interact with the API.
+
+• Deployed the model, API, and website to AWS for accessibility and scalability.
 
 Technologies Used: Python, Numpy, Pandas Matplotlib, Seaborn, scikit-learn, Joblib, JSON, FastAPI, AWS, HTML,CSS,Bootstrap and JavaScript. 
 
@@ -31,21 +33,21 @@ Technologies Used: Python, Numpy, Pandas Matplotlib, Seaborn, scikit-learn, Jobl
 
 # [Project 2: Image Classification: Project Overview](https://github.com/kamlishgoswami/Image-Classification-)
 
-• Collected and prepared a diverse dataset by scraping images from Google using Selenium
+• The purpose of this personal data science project was to develop an image classification system capable of accurately identifying and  categorizing facial features. 
 
-• Utilized OpenCV for efficient data preprocessing, including face and eyes detection, to extract and crop facial regions from the images.
+• Collected a diverse dataset of facial images through web scraping from Google
 
-• Applied Wavelet transform for feature engineering and capturing important image details
+• Performed efficient data preprocessing using OpenCV, including face and eyes detection for extracting and cropping facial regions from the images.
 
-• Split the data using Train Test Split for model evaluation
+• Used Wavelet transform for feature engineering, capturing important image details.
 
-• Conducted extensive model optimization using GridSearchCV, exploring multiple classifiers including SVM, Random Forest, and Logistic Regression.
+• Conducted thorough model optimization using GridSearchCV to find the best performing classifier.
 
-• Achieved exceptional accuracy of 95.4% on the dataset by identifying Support Vector Machine (SVM) as the best-performing classifier.
+• Achieved 95.4% accuracy using Support Vector Machine (SVM) as the best-performing classifier.
 
-• Communicated findings effectively through comprehensive reports, including classification metrics such as precision, recall, and F1-score.
+• Effectively communicated findings through comprehensive reports, including precision, recall, and F1-score metrics.
 
-Technologies Used: Python, Numpy, Pandas Matplotlib, Seaborn, scikit-learn, OpenCV, PyWavelets, Joblib, JSON, Selenium
+Technologies used: Python, Numpy, Pandas Matplotlib, Seaborn, scikit-learn, OpenCV, PyWavelets, Joblib, JSON, Selenium
 
 ![Classification Report](Screenshot%202023-05-22%20at%207.38.35%20PM.png) 
 
