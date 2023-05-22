@@ -1,6 +1,6 @@
 # Data-Science-Portfolio
 
-# [Project 1: Washignton House Prices Prediction: Project Overview](https://github.com/kamlishgoswami/Washington-House-Prices-Prediction/tree/main))
+# [Project 1: Washignton House Prices Prediction: Project Overview](https://github.com/kamlishgoswami/Washington-House-Prices-Prediction/tree/main)
 
 •	Downloaded real estate property dataset from Kaggle for Washington, USA.
 
