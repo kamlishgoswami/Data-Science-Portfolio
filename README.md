@@ -24,8 +24,5 @@ Technologies Used: Python, Numpy, Pandas Matplotlib, Seaborn, Sklearn, FastAPI, 
 
 [AWS Link](http://ec2-54-242-12-7.compute-1.amazonaws.com/)
 
-![Website](https://github.com/kamlishgoswami/Data-Science-Portfolio/blob/main/Washigton%20House%20Prices%20Prediction.png)
+![Website](Washigton%20House%20Prices%20Prediction.png)
 
-![a](Washigton%20House%20Prices%20Prediction.png)
-
-<img src="Washigton%20House%20Prices%20Prediction.png" alt="lasagna">
