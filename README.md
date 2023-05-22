@@ -47,4 +47,6 @@ Technologies Used: Python, Numpy, Pandas Matplotlib, Seaborn, scikit-learn, Jobl
 
 Technologies Used: Python, Numpy, Pandas Matplotlib, Seaborn, scikit-learn, OpenCV, PyWavelets, Joblib, JSON, Selenium
 
-![Classification Report](Screenshot%202023-05-22%20at%207.38.35%20PM.png) ![Confusion Matrix](download.png) 
+![Classification Report](Screenshot%202023-05-22%20at%207.38.35%20PM.png) 
+
+![Confusion Matrix](download.png) 
